@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "248561817758",
+    "firebase_url": "https://bluetooth-share-881b3.firebaseio.com",
+    "project_id": "bluetooth-share-881b3",
+    "storage_bucket": "bluetooth-share-881b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248561817758:android:dbceb85d3d52f653",
+        "android_client_info": {
+          "package_name": "com.example.tut1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248561817758-sjg0dj42tc421omd4c991atabkvkskta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tut1",
+            "certificate_hash": "a7ac7484a4a83a963ab9a9e128ca8be5f4c2d45a"
+          }
+        },
+        {
+          "client_id": "248561817758-n992d3ukog7m6unjkt60m73b627e075e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSsrmJ8Z95jSDPUVwTbADaEMddenILP_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248561817758-n992d3ukog7m6unjkt60m73b627e075e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

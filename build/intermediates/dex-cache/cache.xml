@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\Desktop\Internship\Tut11\app\libs\GraphView-3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e187192858ff7a5ff7864d6f6a754427e6cb3a87">
+        <dex dex="C:\Users\rahul\Desktop\Internship\Tut11\app\build\intermediates\pre-dexed\debug\GraphView-3.0_96e864d2e4ab9473354a2935b0acaa875877fe42.jar" />
+    </item>
+
+</items>
